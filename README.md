@@ -3,7 +3,7 @@ A replacement for /service/proxy that no longer works on Zimbra 8.8.15.
 
 This extension is to be put in the following location on your server: 
 
-      /opt/zimbra/lib/ext/proxy/extension.jar.
+      /opt/zimbra/lib/ext/proxy/extension.jar
 
 Then you need to configure it like so:
 
